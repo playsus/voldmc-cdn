@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /news
-Host: https://voldmc-cdn.000webhostapp.com
+Allow: /
